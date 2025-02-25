@@ -1,0 +1,16 @@
+data_download: # For pro1-4
+  crypt_ticker: "eth"  # eth，btc
+
+data_label: # For pro5
+  crypt_ticker: "eth"  # eth，btc
+  interval: "1h"       # 1h， 1m
+  future_interval: 60
+  change_threshold: 0.04
+
+
+
+
+
+
+
+
